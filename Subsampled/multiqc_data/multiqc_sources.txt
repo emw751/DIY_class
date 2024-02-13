@@ -1,0 +1,11 @@
+Module	Section	Sample Name	Source
+Kallisto	all_sections	SRR8668773_10K_subsample	/Users/emwelter/Desktop/Spring2024/DIY/Data/Subsampled/SRR8668773_10K_subsample_mapped.log
+Kallisto	all_sections	SRR8668756_10K_subsample	/Users/emwelter/Desktop/Spring2024/DIY/Data/Subsampled/SRR8668756_10K_subsample_mapped.log
+Kallisto	all_sections	SRR8668769_10K_subsample	/Users/emwelter/Desktop/Spring2024/DIY/Data/Subsampled/SRR8668769_10K_subsample_mapped.log
+Kallisto	all_sections	SRR8668757_10K_subsample	/Users/emwelter/Desktop/Spring2024/DIY/Data/Subsampled/SRR8668757_10K_subsample_mapped.log
+Kallisto	all_sections	SRR8668772_10K_subsample	/Users/emwelter/Desktop/Spring2024/DIY/Data/Subsampled/SRR8668772_10K_subsample_mapped.log
+Kallisto	all_sections	SRR8668759_10K_subsample	/Users/emwelter/Desktop/Spring2024/DIY/Data/Subsampled/SRR8668759_10K_subsample_mapped.log
+Kallisto	all_sections	SRR8668755_10K_subsample	/Users/emwelter/Desktop/Spring2024/DIY/Data/Subsampled/SRR8668755_10K_subsample_mapped.log
+Kallisto	all_sections	SRR8668774_10K_subsample	/Users/emwelter/Desktop/Spring2024/DIY/Data/Subsampled/SRR8668774_10K_subsample_mapped.log
+Kallisto	all_sections	SRR8668771_10K_subsample	/Users/emwelter/Desktop/Spring2024/DIY/Data/Subsampled/SRR8668771_10K_subsample_mapped.log
+Kallisto	all_sections	SRR8668758_10K_subsample	/Users/emwelter/Desktop/Spring2024/DIY/Data/Subsampled/SRR8668758_10K_subsample_mapped.log

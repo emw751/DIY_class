@@ -1,0 +1,27 @@
+{
+    "id": "58A2B307",
+    "path": "~/Desktop/Spring2024/DIY/Data/kallistoout/Step1_TxImport.R",
+    "project_path": "Step1_TxImport.R",
+    "type": "r_source",
+    "hash": "991428344",
+    "contents": "",
+    "dirty": false,
+    "created": 1707330160370.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "82,0",
+        "scrollLine": "75",
+        "docOutlineVisible": "1"
+    },
+    "folds": "0|35|9|0|\n10|15|18|0|\n19|28|34|0|\n35|50|42|0|\n43|41|71|0|\n",
+    "lastKnownWriteTime": 1707790290,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1707790290868,
+    "read_only": false,
+    "read_only_alternatives": []
+}

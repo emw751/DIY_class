@@ -1,0 +1,22 @@
+Module	Section	Sample Name	Source
+Kallisto	all_sections	SRR8668774	/Users/emwelter/Desktop/Spring2024/DIY/Data/CL13.log
+Kallisto	all_sections	SRR8668773	/Users/emwelter/Desktop/Spring2024/DIY/Data/CL12.log
+Kallisto	all_sections	SRR8668771	/Users/emwelter/Desktop/Spring2024/DIY/Data/CL10.log
+Kallisto	all_sections	SRR8668772	/Users/emwelter/Desktop/Spring2024/DIY/Data/CL11.log
+Kallisto	all_sections	SRR8668757	/Users/emwelter/Desktop/Spring2024/DIY/Data/HS03.log
+Kallisto	all_sections	SRR8668756	/Users/emwelter/Desktop/Spring2024/DIY/Data/HS02.log
+Kallisto	all_sections	SRR8668755	/Users/emwelter/Desktop/Spring2024/DIY/Data/HS01.log
+Kallisto	all_sections	SRR8668759	/Users/emwelter/Desktop/Spring2024/DIY/Data/HS05.log
+Kallisto	all_sections	SRR8668769	/Users/emwelter/Desktop/Spring2024/DIY/Data/CL08.log
+Kallisto	all_sections	SRR8668758	/Users/emwelter/Desktop/Spring2024/DIY/Data/HS04.log
+FastQC	all_sections	SRR8668757	/Users/emwelter/Desktop/Spring2024/DIY/Data/SRR8668757_fastqc.zip
+FastQC	all_sections	SRR8668771	/Users/emwelter/Desktop/Spring2024/DIY/Data/SRR8668771_fastqc.zip
+FastQC	all_sections	SRR8668774	/Users/emwelter/Desktop/Spring2024/DIY/Data/SRR8668774_fastqc.zip
+FastQC	all_sections	SRR8668755	/Users/emwelter/Desktop/Spring2024/DIY/Data/SRR8668755_fastqc.zip
+FastQC	all_sections	SRR8668758	/Users/emwelter/Desktop/Spring2024/DIY/Data/SRR8668758_fastqc.zip
+FastQC	all_sections	SRR8668773	/Users/emwelter/Desktop/Spring2024/DIY/Data/SRR8668773_fastqc.zip
+FastQC	all_sections	SRR8668769	/Users/emwelter/Desktop/Spring2024/DIY/Data/SRR8668769_fastqc.zip
+FastQC	all_sections	SRR8668756	/Users/emwelter/Desktop/Spring2024/DIY/Data/SRR8668756_fastqc.zip
+FastQC	all_sections	SRR8668759	/Users/emwelter/Desktop/Spring2024/DIY/Data/SRR8668759_fastqc.zip
+FastQC	all_sections	SRR8668772	/Users/emwelter/Desktop/Spring2024/DIY/Data/SRR8668772_fastqc.zip
+FastQC	all_sections	Example | SRR8668755_1M_subsample	/Users/emwelter/Desktop/Spring2024/DIY/Data/Example/SRR8668755_1M_subsample_fastqc.zip
